@@ -1,28 +1,23 @@
 {
 	"providerName": "Jason Helder",
-	"language": "en-US",
 	"lastUpdated": "2017-02-07T18:12:32.125Z",
-	"movies": [
-
-		{
-			"id": "20190211",
-			"title": "Live Stream",
-			"shortDescription": "Live stream",
-			"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIHODM4MQwO9LphdyB_RSlFC-ErYkZb5qw7YBsos-Sc6lPWEi8w",
-			"genre": "music",
-			"tag": "music",
-			"releaseDate": "2019-02-11",
-			"content": {
-				"dateAdded": "2019-02-11T14:14:54.431Z",
-				"captions": [],
-				"duration": 9999,
-				"video": [{
-					"url": "http://dcunilive47-lh.akamaihd.net/i/dclive_1@739088/master.m3u8",
-					"quality": "HD",
-					"videoType": "HLS"
-				}],
-				"categories": ["music", "special", "live"]
-			}
-		}
-	]
+	"language": "en-US",
+	"categories": ["music", "special", "live"],
+	"movies": [{
+		"id": "20190211",
+		"title": "Live Stream",
+		"content": {
+			"dateAdded": "2019-02-11T14:14:54.431Z",
+			"video": [{
+				"url": "http://dcunilive47-lh.akamaihd.net/i/dclive_1@739088/master.m3u8",
+				"quality": "HD",
+				"videoType": "HLS"
+			}],
+			"duration": 9999
+		},
+		"genre": "music",
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIHODM4MQwO9LphdyB_RSlFC-ErYkZb5qw7YBsos-Sc6lPWEi8w",
+		"releaseDate": "2019-02-11",
+		"shortDescription": "Live stream"
+	}]
 }

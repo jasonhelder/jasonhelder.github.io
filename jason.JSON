@@ -21,7 +21,7 @@
 				"quality": "HD",
 				"videoType": "HLS"
 			}],
-			"category": "music"
+			"categories": ["music","special","live"]
 		}
 	}
 }

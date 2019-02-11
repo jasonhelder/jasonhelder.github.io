@@ -2,7 +2,10 @@
 	"providerName": "Jason Helder",
 	"lastUpdated": "2017-02-07T18:12:32.125Z",
 	"language": "en-US",
-	"categories": ["music", "special", "live"],
+	"category": {
+    "name": "Streaming music",
+    "query": "streaming AND music",
+    "order": "most_popular"},
 	"movie": [{
 		"id": "20190211",
 		"title": "Live Stream",

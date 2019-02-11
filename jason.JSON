@@ -2,21 +2,34 @@
 	"providerName": "Jason Helder",
 	"lastUpdated": "2017-02-07T18:12:32.125Z",
 	"language": "en-US",
-	"movie": [{
+	"movie": [
+	{
 		"id": "20190211",
 		"title": "Live Stream",
 		"content": {
 			"dateAdded": "2019-02-11T14:14:54.431Z",
-			"video": [{
+			"video": [
+				{
 				"url": "http://dcunilive47-lh.akamaihd.net/i/dclive_1@739088/master.m3u8",
 				"quality": "HD",
 				"videoType": "HLS"
-			}],
+			}
+			],
 			"duration": 9999
 		},
-		"genre": "special",
+		"genres": [
+		"special",
+		"comedy"
+		],
 		"thumbnail": "https://cdn3.macworld.co.uk/cmsdata/features/3612963/how_to_get_music_on_iphone_1600home_thumb800.jpg",
 		"releaseDate": "2019-02-11",
-		"shortDescription": "Live stream", "tags": ["music", "special" ,"live", "comedy"]
-	}]
+		"shortDescription": "Live stream",
+		"tags": [
+		"music", 
+		"special", 
+		"live", 
+		"comedy"
+		]
+	}
+	]
 }

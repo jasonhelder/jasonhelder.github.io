@@ -3,7 +3,7 @@
 	"lastUpdated": "2017-02-07T18:12:32.125Z",
 	"language": "en-US",
 	"categories": ["music", "special", "live"],
-	"movies": [{
+	"movie": [{
 		"id": "20190211",
 		"title": "Live Stream",
 		"content": {

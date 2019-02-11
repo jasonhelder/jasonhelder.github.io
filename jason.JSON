@@ -22,5 +22,6 @@
 				"videoType": "HLS"
 			}]
 		}
-	}
+	},
+	"categories": ["music", "special", "live"]
 }

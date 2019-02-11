@@ -1,26 +1,26 @@
 {
-	"providerName": "JasonHelder",
+	"providerName": "Jason Helder",
 	"language": "en-US",
 	"lastUpdated": "2017-02-07T18:12:32.125Z",
-	"movies":
+	"music":
 
-		[{
-			"id": "20190211",
-			"title": "Live Stream",
-			"shortDescription": "Live stream",
-			"thumbnail": [],
-			"genres": ["foreign"],
-			"tags": ["live"],
-			"releaseDate": "2019-02-11",
-			"content": {
-				"dateAdded": "2019-02-11T14:14:54.431Z",
-				"captions": [],
-				"duration": 9999,
-				"movies": [{
-					"url": "http://dcunilive47-lh.akamaihd.net/i/dclive_1@739088/master.m3u8",
-					"quality": "HD",
-					"videoType": "HLS"
-				}]
-			}
-		}]
+	{
+		"id": "20190211",
+		"title": "Live Stream",
+		"shortDescription": "Live stream",
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIHODM4MQwO9LphdyB_RSlFC-ErYkZb5qw7YBsos-Sc6lPWEi8w",
+		"genres": ["music"],
+		"tags": ["live"],
+		"releaseDate": "2019-02-11",
+		"content": {
+			"dateAdded": "2019-02-11T14:14:54.431Z",
+			"captions": [],
+			"duration": 9999,
+			"videos": [{
+				"url": "http://dcunilive47-lh.akamaihd.net/i/dclive_1@739088/master.m3u8",
+				"quality": "HD",
+				"videoType": "HLS"
+			}]
+		}
+	}
 }
